@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfil🫀
 
-<!--
-**Mariacecilia11/Mariacecilia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Maria Cecília
+ 
+- Estou estudando alura
+- Estou Me desenvolvendo na linguagem javaScript
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+- ### Você pode entrarem contato comigo📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- maria.silva.souza17@escola.pr.gov.br
+  
+- @_mah__souza_
+- 
